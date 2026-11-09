@@ -9,7 +9,8 @@ This retrieval strategy will introduce a new chunking strategy that will change 
 
 It will be difficult to measure the difference between the chunker and the new chunking method because the sizes of text sample are too small to measure a change in retrieval quality. 
 
-
+To approach this change I will chose an approach to changing RAG retrrieval that addresses how to return a more confident answer when the answer is buried in a long section of text and diluted. 
+  The idea is to try finer-grained chunks that keep the Title-Heading line at the top. 
 **Staff solution — `city_guides` corpus.**
 
 <!-- ⚠️ THIS IS THE STAFF EXEMPLAR, not a student submission. It is what a
