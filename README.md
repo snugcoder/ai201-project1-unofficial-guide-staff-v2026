@@ -1,5 +1,15 @@
 # The Unofficial Guide
 
+# Project 9 Extension
+
+## Shape C
+I will be updating this project with a new retrieval strategy for an extension in week 9.
+This retrieval strategy will introduce a new chunking strategy that will change the way files are searched through. 
+ What is out of scope for me is hardening against failure and deploying this project. 
+
+It will be difficult to measure the difference between the chunker and the new chunking method because the sizes of text sample are too small to measure a change in retrieval quality. 
+
+
 **Staff solution — `city_guides` corpus.**
 
 <!-- ⚠️ THIS IS THE STAFF EXEMPLAR, not a student submission. It is what a
